@@ -7,5 +7,5 @@ const Total = props => {
     </div>
   );
 };
-
+ 
 export default Total;
